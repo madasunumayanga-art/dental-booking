@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+uimport { useState, useRef, useEffect } from "react";
 
 const CLINIC_NAME = "Dr. (Mrs.) Prathibha Wijemanne";
 const CLINIC_SHORT = "Prathibha Dental Surgery";
